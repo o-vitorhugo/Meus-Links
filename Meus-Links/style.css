@@ -24,10 +24,6 @@
     --switch-bg-url: url(./assets/sun.svg);
 }
 
-html, body {
-    height: 100%;
-}
-
 body {
     background: var(--bg-url) no-repeat top center/cover;
     min-height: 100dvh;
